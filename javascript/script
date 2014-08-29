@@ -1,0 +1,4 @@
+function onClick(button1) {
+  button1.innerHTML="Thank You"
+}
+

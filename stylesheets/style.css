@@ -1,0 +1,234 @@
+header {
+   padding-top:20px;
+}
+
+header h1 {
+   margin:0;
+}
+
+.browser {
+  margin-left:0;
+  position:absolute;
+  bottom: -0.7px;
+}
+ 
+div#header {
+    background-image: url('../images/main_image.png');
+    background-size: cover;
+}
+
+#header h2 {
+    font-size:42px;
+    font-family: Adelle, Helvetica, Arial, sans-serif;
+    color:#eafde7;
+    line-height: 1.2em;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 125px;
+    text-shadow: 3px 3px 3px #000000;
+    padding-bottom: 10px
+}
+
+.button1 {
+  width: 268px;
+  height: 77px;
+  border-radius: 12px;
+  color: #fef4e9;
+  border: solid 1px #da7c0c;
+  background: #f78d1d;
+  background: -webkit-gradient(linear, left top, left bottom, from(#faa51a), to(#f47a20));
+  background: -moz-linear-gradient(top,  #faa51a,  #f47a20);
+  box-shadow: 0 1px 2px rgba(0,0,0,.2);
+  font-size: 27px;
+  font-family: "Tahoma";
+  color: #fff;
+  font-weight: bold;
+  text-transform: uppercase;
+  outline: 0;
+  text-align: center;
+  text-shadow: 2px 2px 2px rgb( 0, 0, 0 );
+}
+
+#header h3 {
+    font-size:28px;
+    font-family: Adelle, Helvetica, Arial, sans-serif;
+
+    color:#eafde7;
+    font-weight: normal;
+    padding-bottom: 40px;
+    text-align: left;
+}
+
+.macbook {
+  padding-bottom: 30px;
+  display: block;
+}
+
+#features h1 {
+    font-size:50px;
+    font-family:  Adelle, Helvetica, Arial, sans-serif;
+    color:#151414;
+    font-weight: bold;
+    text-align:center;
+    line-height: 1em;
+    padding-top: 30px;
+    display: block;    
+}
+
+#features h2 {
+    font-size:40px;
+    font-family: Adelle, Helvetica, Arial, sans-serif;
+    color:#151414;
+    font-weight: bold;
+    text-align:left;
+    letter-spacing:-3px
+}
+
+#features h3 {
+    font-size:40px;
+    font-family: Adelle, Helvetica, Arial, sans-serif;
+    color:#1c676c;
+    font-weight: bold;
+    text-align:left;
+    letter-spacing:-1.5px
+}
+
+#features p {
+    font-size:18px;
+    font-family: Adelle, Helvetica, Arial, sans-serif;
+    color:#151414;
+    text-align:left;
+}
+
+div#testimonials {
+    background: #eafde7;
+    min-height: 350px;
+    background-size: cover;
+}
+
+#testimonials h1 {
+    font-size:50px;
+    font-family: Adelle, Helvetica, Arial, sans-serif;
+    color:#151414;
+    font-weight: bold;
+    text-align:center;
+    padding-top: 25px;
+    padding-bottom: 40px;
+    line-height: 1em;
+  }
+
+#testimonials h2 {
+    font-size:26px;
+    font-family: Adelle, Helvetica, Arial, sans-serif;
+    color:#1c676c;
+    font-weight:bold;
+    font-style:italic;
+    line-height: 1.1em;
+}
+
+#testimonials h3 {
+    font-size:26px;
+    font-family: Adelle, Helvetica, Arial, sans-serif;
+    color:#539649;
+    font-weight:bold;
+    font-style:italic;  
+    line-height: 1.1em; 
+}
+
+#testimonials p {
+    font-size:18px;
+    font-family: Adelle, Helvetica, Arial, sans-serif;
+    color:#151414;   
+    letter-spacing: -0.2px;
+}
+
+div#call_to_action {
+    background: #7ba92a;
+}
+
+#call_to_action h1 {
+    font-size:50px;
+    font-family: Adelle, Helvetica, Arial, sans-serif;
+    color:#eafde7;
+    font-style:italic; 
+    text-align: left;
+    text-shadow: 3px 3px 3px #000000;
+    padding-top: 20px;
+    padding-left: 10px;
+    line-height: 1em;
+}
+
+#call_to_action h2 {
+    font-size:30px;
+    font-family: Adelle, Myraid Pro, Arial, sans-serif;
+    color:#eafde7;
+    font-weight: normal;
+    text-align:left;
+    line-height: 1em;
+    padding-left: 10px;
+    letter-spacing: -0.02em;
+}
+
+input {
+     border-radius: 6px; 
+       width: 381px;
+       height: 45px;
+    -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+         background: rgba(255,255,255 );
+    display: block;
+}
+
+.button2 {
+  width: 191px;
+  height: 52px; 
+  font-size: 19px;
+  font-family: "Tahoma";
+  color: #fff;
+  border-radius: 6px;
+  border: solid 1px #da7c0c;
+  outline: 0;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-shadow: 0px 1px 0px rgb( 0, 0, 0 );
+  letter-spacing:1.5px;
+  text-align:center;
+  margin-left: 70px;
+}
+
+
+div#footer {
+    background: #539649;
+}
+
+#footer h1 {
+    line-height: 2em;
+    text-align: left;
+    font-size:18px;
+    font-family: Adelle, Helvetica, Arial, sans-serif;
+    color:#eafde7;
+}
+
+#footer h2 {
+    line-height: 2em;
+    text-align: right;
+    font-size:18px;
+    font-family: Adelle, Helvetica, Arial, sans-serif;
+    color:#eafde7;
+}
+
+
+
+
+
+
+
+
+
